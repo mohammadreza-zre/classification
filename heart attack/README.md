@@ -1,4 +1,5 @@
 Age : Age of the patient
+
 Sex : Sex of the patient
 exang: exercise induced angina (1 = yes; 0 = no)
 ca: number of major vessels 
